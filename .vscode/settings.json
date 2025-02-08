@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "__locale": "cpp",
+        "locale": "cpp",
+        "typeinfo": "cpp"
+    },
+    "code-runner.executorMap": {
+        "cpp": "-std=c++17"
+    }
+}

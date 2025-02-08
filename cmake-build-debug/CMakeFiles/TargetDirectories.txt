@@ -1,0 +1,3 @@
+/Users/rageh/projects/sayed/bank/cmake-build-debug/CMakeFiles/bank.dir
+/Users/rageh/projects/sayed/bank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rageh/projects/sayed/bank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
