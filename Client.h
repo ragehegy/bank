@@ -57,9 +57,14 @@ public:
 
     void withdrow(double amount) {
 
-        if (balance > amount || balance == 1500) {
+        if (balance > amount || balance == 1500  ) {
 
             cout << "you do not have enough money  for withdraw";
+        }
+
+        if(balance>0){
+
+            cout<<"you can not with draw by zero";
         }
         else {
             balance -= amount ;
