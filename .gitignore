@@ -1,0 +1,5 @@
+CMakeLists.txt
+.idea/
+.vscode/
+*.json
+.vscode/settings.json
